@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "d6e84e48-4ded-e643-b4cd-e1de4221f4a5++2872",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "d6e84e48-4ded-e643-b4cd-e1de4221f4a5++2872" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "d6e84e48-4ded-e643-b4cd-e1de4221f4a5++2872" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6996284D-DFC2-487C-B9BB-8A5E97A52368",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "d6e84e48-4ded-e643-b4cd-e1de4221f4a5++2872" : "Sample\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Sample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Sample.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.1.231:8443\/svn\/iosplayground",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d6e84e48-4ded-e643-b4cd-e1de4221f4a5++2872"
+    }
+  ]
+}
