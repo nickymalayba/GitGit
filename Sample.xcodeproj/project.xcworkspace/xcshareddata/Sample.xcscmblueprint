@@ -1,21 +1,28 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "d6e84e48-4ded-e643-b4cd-e1de4221f4a5++2872",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F0C3BD6FD7890A63378FB452CB4D5B407846DE9C",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
     "d6e84e48-4ded-e643-b4cd-e1de4221f4a5++2872" : {
 
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F0C3BD6FD7890A63378FB452CB4D5B407846DE9C" : 0,
     "d6e84e48-4ded-e643-b4cd-e1de4221f4a5++2872" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6996284D-DFC2-487C-B9BB-8A5E97A52368",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F0C3BD6FD7890A63378FB452CB4D5B407846DE9C" : "GitSample\/",
     "d6e84e48-4ded-e643-b4cd-e1de4221f4a5++2872" : "Sample\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "Sample",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Sample.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nickymalayba\/GitGit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F0C3BD6FD7890A63378FB452CB4D5B407846DE9C"
+    },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.1.231:8443\/svn\/iosplayground",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",

@@ -15,6 +15,7 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
+    // See Thsi comment in GitHub
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 }
